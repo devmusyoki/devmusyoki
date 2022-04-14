@@ -7,8 +7,9 @@
 <details>
 <summary> Github Statistics...</summary>
 <p align="center">
-[![DevMusyoki's GitHub stats](https://github-readme-stats.vercel.app/api?username=devmusyoki)](https://github.com/devmusyoki/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api?username=devmusyoki&show_icons=true"/>
 </p>
 </details>
+
 <hr>
 
