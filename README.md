@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-
-**devmusyoki/devmusyoki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 <hr>
 <details>
 <summary> Github Statistics...</summary>
